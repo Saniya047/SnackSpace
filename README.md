@@ -15,10 +15,10 @@ SnackSpace is a responsive web application designed for our college cafeteria to
   
 ## 📸 Screenshots
 
-### Food Page
-![Food Page](Screenshots/Fp.png)
+### Front Page
+![Front Page](Screenshots/FP.png)
 
-### Random Page
+### Random Website Page
 ![Random Page](Screenshots/Random.png)
 
 ## Installation & Setup
