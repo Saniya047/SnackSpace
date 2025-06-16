@@ -12,6 +12,14 @@ SnackSpace is a responsive web application designed for our college cafeteria to
 - HTML, CSS, JavaScript
 - Node.js
 - MongoDB
+  
+## 📸 Screenshots
+
+### Food Page
+![Food Page](Screenshots/Fp.png)
+
+### Random Page
+![Random Page](Screenshots/Random.png)
 
 ## Installation & Setup
 Follow these steps to set up and run the project locally:
